@@ -1,1 +1,1 @@
-# odin-recipes
+This website follows the assignment of the Recipes project portion of TOP. The website will have a homepage which displays links to separate recipe pages, each containing their respective description, ingrediants, and cooking instructions.
